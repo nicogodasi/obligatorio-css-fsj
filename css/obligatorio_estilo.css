@@ -1,0 +1,13 @@
+div > div {
+    display: inline-block;
+    background-color: red;
+    width: 22vw;
+    height: 22vw;
+    margin: 0.3vw;
+    font-size: 4vw;
+    color: yellow;
+}
+#black_square {
+    background-color: black;
+    color: white;
+}
